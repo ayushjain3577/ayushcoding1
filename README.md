@@ -1,4 +1,5 @@
 # ayushcoding1
+
 This is my coding repository.
 <br>
-Author - Ayush Jain
+Author - Ayush (Apna college)
